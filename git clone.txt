@@ -1,0 +1,3 @@
+1cac5f2be932cc0ef55cd0f1121669f981279b1e
+
+git clone -b master 1cac5f2be932cc0ef55cd0f1121669f981279b1e@https://github.com/devops-vrs/UI.git
